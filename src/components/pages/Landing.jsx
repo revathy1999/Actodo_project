@@ -1,5 +1,5 @@
 import Header from "../Header";
-import Card from "../card";
+import Card from "../Card";
 import ToDO from "../ToDO";
 import { useLocation } from "react-router-dom";
 const Landing = () => {
